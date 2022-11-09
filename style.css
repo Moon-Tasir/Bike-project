@@ -1,0 +1,20 @@
+/* Google-font */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-clr{
+    background-color: #264653;
+}
+.btn-clr{
+   background:#E76F51;
+}
+.icon-clr{
+    color: chocolate;
+}
+.card-text-clr{
+ color: #23A6F0;
+}
+.span-text-clr{
+    color: #E76F51;
+}
